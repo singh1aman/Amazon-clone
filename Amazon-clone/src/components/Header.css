@@ -1,0 +1,75 @@
+.container{
+    background-color: black;
+    height:60px;
+    width: 100%;
+}
+
+.input{
+
+    margin-left: 150px;
+    margin-top: 14px;
+    margin-bottom: 12px;
+    border-radius: 9px;
+    width: 400px;
+
+}
+.main-div{
+    display: flex;
+}
+
+.address-div{
+    color: white;
+    margin-left: 65px;
+    margin-top: 11px;
+
+}
+.a{
+    font-size: x-small;
+    font-weight: 700;
+}
+#b{
+    font-size: small;
+    font-weight: 800;
+}
+.cart-div{
+    color:white;
+    font-size: small;
+    margin-left: 75px;
+    margin-top: 11px;
+    font-weight: 700;
+
+}
+.login-div{
+    color: white;
+    margin-left: 55px;
+    font-size: medium;
+    font-weight: 500;
+    margin-top: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
